@@ -24,7 +24,7 @@ This is a ready‑to‑use **conceptual engine** for worldbuilding, tabletop and
 ## 📥 Download
 
 Full text (PDF format):  
-➡️ **[Download QuantMana_Physics_v1.0.pdf]([output.pdf](https://github.com/user-attachments/files/30127256/output.pdf)**
+➡️ **[output.pdf](https://github.com/user-attachments/files/30127310/output.pdf)**
 
 ---
 
