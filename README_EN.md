@@ -59,7 +59,11 @@ See the [LICENSE](./LICENSE) file for details.
 This work is distributed **for free**.  
 If you find it useful or inspiring — any amount of support is appreciated.
 
-💳 **Donation link:** [https://pay.cloudtips.ru/p/f7cbd275](https://pay.cloudtips.ru/p/f7cbd275)
+💳 **Donation link:** 
+
+**Cryptocurrency (USDT):**
+- Network: TRC-20 (Tron)
+TRApp9KikwvdtXNA1SdUxPoYQ4jXdwSpFC
 
 ---
 
