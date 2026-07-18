@@ -24,7 +24,7 @@ This is a ready‑to‑use **conceptual engine** for worldbuilding, tabletop and
 ## 📥 Download
 
 Full text (PDF format):  
-➡️ **[output.pdf](https://github.com/user-attachments/files/30127310/output.pdf)**
+➡️ **[output_en.pdf](https://github.com/user-attachments/files/30155502/output_en.pdf)**
 
 ---
 
